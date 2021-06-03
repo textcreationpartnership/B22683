@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact plan of Lymerick with a relation of the manner and form of the present besieging (by sea and land) of that famous city, by Their Majesties forces, under the command of Lieutenant-General Ginckle, and a squadron of ships commnaded [sic] by Capt. Coale : as also, of the manner of our army's encamping, opening their trenches, raising their great batteries, throwing their bombs, battering down and firing the town : with the several actions of the royal army since 1691, the time of their setting down before the city.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22683</idno><idno type="EEBO-CITATION">13254793</idno>
+  <idno type="VID">206086</idno>
+  <idno type="EEBO-PROQUEST">2240852799</idno>
+  
+            <idno type="STC">Wing E3670</idno>
+            <idno type="OCLC">13254793</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1550:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact plan of Lymerick with a relation of the manner and form of the present besieging (by sea and land) of that famous city, by Their Majesties forces, under the command of Lieutenant-General Ginckle, and a squadron of ships commnaded [sic] by Capt. Coale : as also, of the manner of our army's encamping, opening their trenches, raising their great batteries, throwing their bombs, battering down and firing the town : with the several actions of the royal army since 1691, the time of their setting down before the city.</title>
+               </titleStmt>
+               <extent>1 broadside : map.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: creased with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Limerick (Limerick, Ireland) --  History --  Siege, 1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:206086:1"/>
+            <head>An Exact PLAN of LYMERICK: With a Relation of the MANNER and FORM of the Present Besieging (by Sea and Land) of that Famous CITY, by Their Majesties Forces, under the Command of Lieutenant-General <hi>GINCKLE,</hi> and a Squadron of Ships, Commanded by Capt. <hi>COALE.</hi>
+            </head>
+            <head type="sub">
+               <hi>As also,</hi> Of the Manner of our Army's Encamping, Opening their Trenches, Raising their Great Batteries, Throwing their <hi>Bombs,</hi> Battering down, and Firing the Town: With the several Actions of the Royal Army, since 1691. the Time of their setting down before the CITY.</head>
+            <head type="illustration">
+               <figure>
+                  <figDesc>plan of the siege of Limerick</figDesc>
+                  <head>An EXPLANATION of the PLAN.</head>
+                  <p>
+                     <label>[A]</label> Thomond-Gate. <label>[B]</label> Island-Gate. <label>[C]</label> St. John's-Gate. <label>[D]</label> Killomallock-Gate. <label>[E]</label> Water-Gate▪ <label>[F]</label>
+                     <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <label>[H]</label> The Bridge which parts the two Towns▪ <label>[I]</label> The Castle in the Irish Town▪ <label>[K]</label>
+                     <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <label>[L]</label> Thomond Sconce. <label>[M]</label> Thomond Bridge. <label>[N]</label> Shannon River. <label>[O]</label> Shannon River. <label>[P]</label> A Ravel<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. <label>[Q]</label> St. Michaels. <label>[R]</label> Abby. <label>[S]</label> St. Francis. <label>[T]</label> St. Peters. <label>[V]</label> The Bishops Gate. <label>[W]</label> Newgate. <label>[X]</label> The Cathedral. <label>[Y]</label> The Maine Street. <label>[Z]</label> The Store-House. <label>(1)</label> The Island. <label>(2)</label> St. Monshius Battery. <label>(3)</label> General Ginckles Battery of 24 Cannon. <label>(4)</label> The Bat<g ref="char:EOLhyphen"/>tery of the Grand Attack of 22 large Cannon. <label>(5)</label> Another Battery of 8 Cannon. <label>(6)</label> Captain <hi>Coal,</hi> with his Squadron of Their Majesties Ships. <label>(7)</label> The Battery against Thomond Bridge. <label>(8)</label> Branches from the <hi>Shannon.</hi>
+                     <label>(9)</label> Branches from the <hi>Shannon.</hi>
+                  </p>
+                  <p>☞ Here our Army, by the General's Order, passed the <hi>Shan<g ref="char:EOLhyphen"/>non,</hi> into <hi>Clare-County,</hi> and Defeated four Regiments of Dragoons, Commanded by Brigadier <hi>Clifford,</hi> &amp;c.</p>
+               </figure>
+            </head>
+            <p>THE General, and indeed the whole Ar<g ref="char:EOLhyphen"/>my, having been very impatient of ly<g ref="char:EOLhyphen"/>ing at <hi>Carrickinlish;</hi> the General, on the 23 of <hi>August,</hi> sent out M. <hi>Slundt,</hi> with 150 fresh Draught Horses, to hasten the coming up of our Guns, <hi>&amp;c.</hi> And ordered our Ships in the <hi>Shannon</hi> to come nearer <hi>Limerick:</hi> On the 25<hi>th.</hi> at 5 in the Morning, pursuant to the Orders received from the General the over-Night, the whole Army Decampt, and by three in the Afternoon came before two of the Enemies Forts, the one an old Church, the o<g ref="char:EOLhyphen"/>ther <hi>Ireton's Fort,</hi> very strong Places; in the for<g ref="char:EOLhyphen"/>mer were 500 Musqueteers, but neither of them gave us much trouble, the Garrisons in both run<g ref="char:EOLhyphen"/>ning away upon our advance. On the Left of our Army was a very good Fort built last Winter, Guarded by 600 Men, which was bravely at<g ref="char:EOLhyphen"/>tacqued by 8o of our Granadiers, who receiving a Volley of their Shot, with small damage, moun<g ref="char:EOLhyphen"/>ted the Works, and carried the place, and kil<g ref="char:EOLhyphen"/>led 800, and took 16 Prisoners: A Danish Col<g ref="char:EOLhyphen"/>lonel who Commanded our Advance party of Horse, was slain by a chance Cannon-shot. 26. This Afternoon our Cannon and Mortars, with 800 Carrs and Bombs, and 800 Barrels of Powder, arrived in the Camp from <hi>Athlone.</hi> 27. Last Night we broak Ground, and made our approaches with very small loss. This morning Orders were given for fitting 1000 Hand-Granadoes, and 600 Bombs, to be ready against eight at Night: Likewise this morning the Prince of <hi>Hesse</hi> with 3 Regiments of Foot and 700 Horse, Marched to reduce <hi>Castle-Connel,</hi> which Surrendred to him early the next morning upon Discretion, the Garrison being made prisoners of War: We also took in the Castle of <hi>Ballycullane,</hi> and ano<g ref="char:EOLhyphen"/>ther Castle down the River. 29. This Evening our Line of Communication was finished, and two Batteries ordered to be raised on the left of the Town, the one for 10 Guns, the other for 7 Mortars and 2 Howbits, 30<hi>th.</hi> This mor<g ref="char:EOLhyphen"/>ning our Batteries being finished, the Guns and Mortars were drawn down and Mounted there<g ref="char:EOLhyphen"/>on, and this Night about 11, our Mortars began to play, and threw above 100 Bombs and Car<g ref="char:EOLhyphen"/>casses into the Town, which besides their other Execution, Fired the Town in three places. Near 1000 Prisoners taken in several Castles a<g ref="char:EOLhyphen"/>bout <hi>Limerick,</hi> were this day sent hence to <hi>Clon<g ref="char:EOLhyphen"/>mel.</hi> About 10 this Night 600 Troopers on Foot were Commanded down to the Trenches, to raise another Battery, much nearer to the Town then our first. 31<hi>st.</hi> Early this morning the Troopers had finished their Battery. About 2 this morning a Body of 400 Horse and Dragoons went abroad to scour the Country; About 9,700 Horse and Dra<g ref="char:EOLhyphen"/>goons, Commanded by Brigadier <hi>Leveson,</hi> went from the Camp towards the County of <hi>Kerry;</hi> about 11 a Clock we play'd from our new Battery on <hi>Thomond-Bridge</hi> to destroy it. This Night 200 of the Protestant Inhabitants of <hi>Limerick</hi> and therea<g ref="char:EOLhyphen"/>bouts, most of them Women and Children, were brought off from an Island in the <hi>Shannon,</hi> where the <hi>Irish</hi> detained them Prisoners, the manner of Relieving them was thus: Major <hi>Joseph Stroud,</hi> who Commanded in Chief the Militia of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cork,</hi> Garrisoned at <hi>Annagh-beg,</hi> as he was Re<g ref="char:EOLhyphen"/>lieving his Guards, a Captain, Lieutenant, and Cornet, all of the <hi>Irish</hi> Army, Deserted and came over to him; one of them proposed a piece of Ser<g ref="char:EOLhyphen"/>vice, which Major <hi>Stroud</hi> readily accepted, which was to bring off some Protestants from an Island in the <hi>Shannon,</hi> called St. <hi>Thomas's-Island;</hi> whereup<g ref="char:EOLhyphen"/>on the Major immediately taking with him 16 Dragoons, with them in 4 Catts entred the Island, and brought off 200 Protestants, that were in great Misery, being almost Starv'd for want of Food, ha<g ref="char:EOLhyphen"/>ving only two small Cabins to shelter them from the Weather, and but a little Hay to lye on; they also brought off a prey of 46 Horses. Yesterday and this day we play'd from our Cannon and Mor<g ref="char:EOLhyphen"/>tars very briskly, with very great Execution, lay<g ref="char:EOLhyphen"/>ing many of their Houses in several Streets level with the Ground, making them a heap of Ruines, as we are told by a Captain, two Lieutenants and 11 Dragoons, who deserted the Rebels, and just came over to us.</p>
+            <p>
+               <label>
+                  <hi>Sept.</hi> 1.</label> This Morning Collonel <hi>Wolseley</hi> went from the Camp with 500 Horse and Dragoons to<g ref="char:EOLhyphen"/>wards <hi>Killaloo,</hi> it being reported that <hi>Sarsfield</hi> is moving that way: We still continue to Batter and Bombard the Town furiously. 120 of the Rebels who were taken 20 Miles off, were last Night brought Prisoners to the Camp. <hi>Sept.</hi> 2. This mor<g ref="char:EOLhyphen"/>ning the General receiv'd an Express from Briga<g ref="char:EOLhyphen"/>dier <hi>Leveson,</hi> (who went from the Camp on Mon<g ref="char:EOLhyphen"/>day last) Dated Yesterday near <hi>New-Markes,</hi> which advises, That having Intelligence on Monday E<g ref="char:EOLhyphen"/>vening where the <hi>Merrions</hi> and the Lord <hi>Brittas's</hi> Regiments of Horse were, he Marched towards them, and by One of the Clock in the Morning sell in with them, Killed many of them on the place, totally Routed them, and took the Lord <hi>Castle-Con<g ref="char:EOLhyphen"/>nel</hi> and several other Prisoners, as also a good prey of Cattle; then dividing his party into two Bodies, he Marched on the pursuit. In this Action Major <hi>Wood</hi> had his Leg broke by a Shot from the Enemy, which was the most of our loss; our Guns &amp; Mortars have played very busily all last night and this day. A Court-Martial was this day held, whereof the Earl of <hi>Drogheda</hi> was President, where a Woman which pretended she came for a Protection for Cat<g ref="char:EOLhyphen"/>tle, was Condemned for perswading some <hi>French</hi> Soldiers (whom she took for <hi>Papists</hi>) to desert and go over to the <hi>Irish;</hi> several others were also found Guilty of Stealing. 120 of the Rebels, who were taken 20 Miles off, were last Night brought Priso<g ref="char:EOLhyphen"/>ners into the Camp.</p>
+            <p>Our Lines of Communication having been finish<g ref="char:EOLhyphen"/>ed three days since, we have been ever since work<g ref="char:EOLhyphen"/>ing on our Lines of Circumvallation, one of which is likewise finished.</p>
+            <p>A Captain, two Lieutenants and 11 Dragoons, who lately Deserted the Enemy, tell us, that the Besieged are afraid to make Sallies, lest the Men should Desert.</p>
+            <p>
+               <label>
+                  <hi>Sept.</hi> 3.</label> We have made four Forts for the De<g ref="char:EOLhyphen"/>fence of our Line of Contravallation; and this mor<g ref="char:EOLhyphen"/>ning we began the raising of new Batteries on the Right of the Town, (those we made at first being on the Left) on which will be planted 45 pieces of Cannon, the least of them 18 Pounders, and 11 Mortars, the largest of them is within Carbine-shot of the Wall. The Deserters tell us, that they bave not Provisions in the Town for many Days; and that the Militia of the Country which the Earl of <hi>Tyrconnel</hi> forced into the place after the Battle at <hi>Aghrim,</hi> are very pressing to go home, and that Monsieur <hi>d'Ʋssone</hi> the <hi>French</hi> Governour, has pro<g ref="char:EOLhyphen"/>mised to dismiss them, if Succors do not come from <hi>France</hi> in 12 days; That our Bombs have set many of the Houses in <hi>Limerick</hi> in a flame, and that the second Bomb that was thrown Killed a Lady, and Wounded some others. On the 4<hi>th.</hi> 300 Horse and Dragoons were sent to reinforce Brigadier <hi>Le<g ref="char:EOLhyphen"/>veson,</hi> who since the defeat of two of the Enemies Regiments, is advanced farther, in order to reduce the small Garrisons which the <hi>Irish</hi> have still in that Country.</p>
+            <p>
+               <label>6.</label> Last Night we finished our new Battery, con<g ref="char:EOLhyphen"/>sisting of 46 large whole Cannon, and 10 Mortars; all this Day we have played incessantly from the said Battery, throwing in many hundreds of Shells, &amp;c.</p>
+            <p>
+               <label>7.</label> We continue to play from our Batteries, and several Deserters that came into our Camp this E<g ref="char:EOLhyphen"/>vening tell us, that our Bombs have done great Execution.</p>
+            <p>
+               <label>8.</label> Early this morning our Battery of 22 Pieces of Cannon began to play, and continued so all this day with very great Success, making a Breach in the Wall of the <hi>English Town.</hi> On the Left of this Bat<g ref="char:EOLhyphen"/>tery are planted 8 Mortars.</p>
+            <p>
+               <label>9.</label> This day we finished another Battery, which plays upon St. <hi>Iohn's-Gate</hi> in the <hi>Irish Town.</hi> About Two this Afternoon the Enemy came out, and ap<g ref="char:EOLhyphen"/>peared as if they intended a Sally; which March of theirs was no sooner known, but our Men march'd down upon them, and beat them back into the Town, Killing many of them.</p>
+            <p>
+               <label>10.</label> All this day we continued Firing, and about Six at Night the Town appeared on Fire in many places, which continued burning till Two the next morning.</p>
+            <p>
+               <label>11.</label> All this day our Cannon and Mortars conti<g ref="char:EOLhyphen"/>nued to play without intermission, setting Fire to the Town in several fresh places; we continued playing all the 12th.</p>
+            <p>
+               <label>13.</label> This morning came over to us some Dra<g ref="char:EOLhyphen"/>goons, who gave us an Account last Night our Bombs burnt three of the Enemies Magazines, one of Brandy, <hi>&amp;c.</hi> and two of Bisket.</p>
+            <p>
+               <label>14.</label> This day the General sent two Regiments to<g ref="char:EOLhyphen"/>wards <hi>Clonmell</hi> and <hi>Waterford,</hi> to reinforce the Militia.</p>
+            <p>
+               <label>15.</label> The General resolving to pass the <hi>Shannon,</hi> in order to Attack the Irish Horse in <hi>Clare,</hi> the better to conceal his Design, made a shew as though he designed to draw off and raise the Siege, which the Enemy greatly rejoyced at: This Night the Bridge of Pantons, &amp;c. was finished.</p>
+            <p>
+               <label>16.</label> This morning by break of day, several Squa<g ref="char:EOLhyphen"/>drons of Horse and Dragoons, and a Detachment of Foot, passed over the Bridge to a little Island, and then waded ashore without any opposition: As soon as they were discovered, Brigadier <hi>Clifford,</hi> who lay Encampt not from thence with 4 Regiments of Dragoons, brought his Men down on Foot (their Horses being at Grass) to oppose us, but they were quickly put to flight, flinging away their Arms, and leaving all their Baggage, &amp;c. and two Pieces of Can<g ref="char:EOLhyphen"/>non, behind them. Upon this their Camp, which lay a little higher, drew out, but it was only to co<g ref="char:EOLhyphen"/>ver their Baggage; for so soon as our Troops came near them, and had passed the first Defile that was between them and us, they scour'd off with all haste towards the Mountains. We took a <hi>French</hi> Lieu<g ref="char:EOLhyphen"/>tenant-Collonel, and several other Officers Prisoners. This day the Lord <hi>Lilburne</hi> was killed with a Can<g ref="char:EOLhyphen"/>non Ball as he was lying upon his Quilt in the Trenches.</p>
+            <p>
+               <label>17.</label> This day a Captain came, over to us, who said, That the Town is qutte Ruined; That we have Killed great numbers of their Men: That they have not 10 Days Bread in the Town, and not above 6000 Foot.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Hayhurst,</hi> in <hi>Little-Brittain.</hi> 1691.</p>
+         </div>
+         <div type="license">
+            <p>Licensed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
